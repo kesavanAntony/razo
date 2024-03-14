@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8689.ee21ab47.chunk.js","mappings":"2NAEA,MAMA,EANcA,KAEXC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,S","sources":["views/buttons/water/Water.js"],"sourcesContent":["import React from 'react'\n\nconst Water = () => {\n  return (\n   <div>water</div>\n  )\n}\n\nexport default Water\n"],"names":["Water","_jsx","children"],"sourceRoot":""}

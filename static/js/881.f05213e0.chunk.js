@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[881],{90881:(e,r,c)=>{c.r(r),c.d(r,{default:()=>_});c(72791);var t=c(80184);const _=()=>(0,t.jsx)("div",{children:"Certificate"})}}]);
+//# sourceMappingURL=881.f05213e0.chunk.js.map

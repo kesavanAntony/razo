@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[4094],{4094:(e,c,r)=>{r.r(c),r.d(c,{default:()=>_});r(72791);var t=r(80184);const _=()=>(0,t.jsx)("div",{children:"electricity"})}}]);
+//# sourceMappingURL=4094.4e88e7ad.chunk.js.map
